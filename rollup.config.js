@@ -35,7 +35,7 @@ export default {
 		sourcemap: true,
 		format: 'iife',
 		name: 'app',
-		file: 'public/build/bundle.js'
+		file: 'docs/build/bundle.js'
 	},
 	plugins: [
 		svelte({
@@ -48,11 +48,11 @@ export default {
 		// a separate file - better for performance
 		css({ output: 'bundle.css' }),
 
-		// Copy Bootstrap to public
+		// Copy Bootstrap to docs
 		copy({
             targets: [{ 
                 src: 'node_modules/bootstrap/dist/css/bootstrap.min.css', 
-                dest: 'public/css'
+                dest: 'docs/css'
             }]
         }),
 
@@ -71,9 +71,9 @@ export default {
 		// the bundle has been generated
 		!production && serve(),
 
-		// Watch the `public` directory and refresh the
+		// Watch the `docs` directory and refresh the
 		// browser on changes when not in production
-		!production && livereload('public'),
+		!production && livereload('docs'),
 
 		// If we're building for production (npm run build
 		// instead of npm run dev), minify
