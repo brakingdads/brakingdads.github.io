@@ -28,6 +28,7 @@
 
 	function getOpeningTimesForDate(date, openingTimes) {
 		const month = date.toLocaleString('default', { month: 'long' }).toLowerCase();
+		const dayName = date.toLocaleDateString('default', { weekday: 'short' });
     	const day = '' + date.getDate();
 		const year = '' + date.getFullYear();
 		
@@ -46,6 +47,7 @@
 		return {
 			source: monthData.source,
 			day: day,
+			dayName: dayName,
 			month: capitalize(month),
 			statusText: dayData.openStatus,
 			status: refineOpenStatus(dayData.openStatus),
@@ -136,7 +138,7 @@
 				<div class="card-body">
 				  <h2 class="card-title pricing-card-title">{today.status.label}</h2>
 				  <ul class="list-unstyled mt-3 mb-4">
-					<li>{today.day} {today.month}</li>
+					<li>{today.dayName} {today.day} {today.month}</li>
 					<li>{today.statusText}</li>
 					<li>{today.audience}</li>
 				  </ul>
@@ -158,13 +160,12 @@
 				<div class="col">
 					<div class="card mb-4 rounded-3 shadow-sm { day.status.open ? 'border-success': ''}">
 					<div class="card-header py-3 { day.status.open ? 'text-white bg-success border-success': ''}">
-						<h5 class="my-0 fw-normal">{day.day} {day.month}</h5>
+						<h5 class="my-0 fw-normal">{day.dayName} {day.day} {day.month}</h5>
 					</div>
 					
 					<div class="card-body">
 						<h5 class="card-title pricing-card-title">{day.status.label}</h5>
 						<ul class="list-unstyled mt-3 mb-4">
-						<li>{day.day} {day.month}</li>
 						<li>{day.statusText}</li>
 						<li>{day.audience}</li>
 						</ul>
