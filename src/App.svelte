@@ -122,7 +122,7 @@
 <main>
 	<div class="container py-3">	  
 		<div class="header p-3 pb-md-4 mx-auto text-center">
-		  <img id="logo" width="200" height="200" alt="Braking Dads Logo" src="/img/braking-dads-logo.svg" />
+		  <img id="logo" width="200" height="200" alt="Braking Dads Logo" src="/img/braking-dads-logo.png" />
 		</div>
 	  
 		<main>
