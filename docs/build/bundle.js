@@ -754,7 +754,7 @@ var app = (function () {
     			attr_dev(img, "height", "200");
     			attr_dev(img, "alt", "Braking Dads Logo");
     			if (img.src !== (img_src_value = "/img/braking-dads-logo.svg")) attr_dev(img, "src", img_src_value);
-    			attr_dev(img, "class", "svelte-1d14q1t");
+    			attr_dev(img, "class", "svelte-19msf4s");
     			add_location(img, file, 124, 4, 2816);
     			attr_dev(div0, "class", "header p-3 pb-md-4 mx-auto text-center");
     			add_location(div0, file, 123, 2, 2759);
@@ -762,7 +762,7 @@ var app = (function () {
     			add_location(div1, file, 128, 4, 2942);
     			attr_dev(p, "class", "fs-5 text-muted");
     			add_location(p, file, 153, 5, 3890);
-    			attr_dev(div2, "class", "seven-days header p-3 pb-md-4 mx-auto text-center svelte-1d14q1t");
+    			attr_dev(div2, "class", "seven-days header p-3 pb-md-4 mx-auto text-center svelte-19msf4s");
     			add_location(div2, file, 152, 4, 3821);
     			attr_dev(div3, "class", "row row-cols-7 row-cols-md-4 mb-4 text-center justify-content-center");
     			add_location(div3, file, 156, 4, 3953);

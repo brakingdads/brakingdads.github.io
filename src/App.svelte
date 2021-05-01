@@ -198,10 +198,6 @@
 </main>
 
 <style>
-	body {
-		background-color: #EEE;
-	}
-
 	.seven-days {
 		border-top: 1px solid #dee2e6!important;
 		margin-top: 30px;
