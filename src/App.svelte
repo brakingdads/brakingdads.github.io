@@ -122,8 +122,7 @@
 <main>
 	<div class="container py-3">	  
 		<div class="header p-3 pb-md-4 mx-auto text-center">
-		  <h1 class="display-4 fw-normal">Braking Dads</h1>
-		  <p class="fs-5 text-muted">Is Long Valley Open?</p>
+		  <img id="logo" width="200" height="200" alt="Braking Dads Logo" src="/img/braking-dads-logo.svg" />
 		</div>
 	  
 		<main>
@@ -136,7 +135,7 @@
 				</div>
 				
 				<div class="card-body">
-				  <h2 class="card-title pricing-card-title">{today.status.label}</h2>
+				  <h2 class="card-title">Long Valley is {today.status.label}</h2>
 				  <ul class="list-unstyled mt-3 mb-4">
 					<li>{today.dayName} {today.day} {today.month}</li>
 					<li>{today.statusText}</li>
@@ -151,7 +150,7 @@
 			{/if}
 		  </div>
 
-		  <div class="header p-3 pb-md-4 mx-auto text-center">
+		  <div class="seven-days header p-3 pb-md-4 mx-auto text-center">
 		  	<p class="fs-5 text-muted">Next seven days</p>
 		  </div>
 
@@ -164,7 +163,7 @@
 					</div>
 					
 					<div class="card-body">
-						<h5 class="card-title pricing-card-title">{day.status.label}</h5>
+						<h5 class="card-title">{day.status.label}</h5>
 						<ul class="list-unstyled mt-3 mb-4">
 						<li>{day.statusText}</li>
 						<li>{day.audience}</li>
@@ -183,7 +182,7 @@
 		<footer class="pt-4 my-md-5 pt-md-5 border-top">
 		  <div class="row">
 			<div class="col-12 col-md">
-			  <img class="mb-2" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="24" height="19">
+			  <h4>Braking Dads</h4>
 			  <small class="d-block mb-3 text-muted">© 2021</small>
 			</div>
 			<!-- <div class="col-6 col-md">
@@ -199,23 +198,19 @@
 </main>
 
 <style>
-	/* main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
+	body {
+		background-color: #EEE;
 	}
 
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
+	.seven-days {
+		border-top: 1px solid #dee2e6!important;
+		margin-top: 30px;
+    	padding-top: 10px;
+
+		width: 75%;
 	}
 
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	} */
+	#logo {
+		margin-bottom: 30px;
+	}
 </style>
