@@ -15,9 +15,11 @@
         "audience": "Military   driver training"
       },
       "4": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "5": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "6": {
@@ -41,10 +43,11 @@
         "audience": "Military   driver training (night drive)"
       },
       "11": {
-        "openStatus": "\n",
+        "openStatus": "\nOpen   to public     from   8am",
         "audience": "Public   access"
       },
       "12": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "13": {
@@ -68,9 +71,11 @@
         "audience": "Military   driver training"
       },
       "18": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "19": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "20": {
@@ -94,9 +99,11 @@
         "audience": "Military   driver training"
       },
       "25": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "26": {
+        "openStatus": "Open   to public",
         "audience": "Public   access"
       },
       "27": {
