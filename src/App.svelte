@@ -185,12 +185,13 @@
 			  <h4>Braking Dads</h4>
 			  <small class="d-block mb-3 text-muted">© 2021</small>
 			</div>
-			<!-- <div class="col-6 col-md">
-			  <h5>About</h5>
-			  <ul class="list-unstyled text-small">
-				<li class="mb-1"><a class="link-secondary text-decoration-none" href="https://github.com/brakingdads">Source Code</a></li>
+			<div class="col-6 col-md">
+			  <h4>Join</h4>
+			  <ul class="list-unstyled text-small social">
+				<li class="mb-1"><a class="link-secondary text-decoration-none" href="https://www.facebook.com/groups/556738958192823/?ref=share"><i style="color: #3b5998;" class="fab fa-facebook-f fa-2x"></i></a></li>
+				<li class="mb-1"><a class="link-secondary text-decoration-none" href="https://github.com/brakingdads"><i style="color: #333333;" class="fab fa-github fa-2x"></i></a></li>
 			  </ul>
-			</div> -->
+			</div>
 		  </div>
 		</footer>
 	  </div>
@@ -198,6 +199,10 @@
 </main>
 
 <style>
+	.social li.mb-1 {
+		float: left;
+    	margin: 0 10px;
+	}
 	.seven-days {
 		border-top: 1px solid #dee2e6!important;
 		margin-top: 30px;
