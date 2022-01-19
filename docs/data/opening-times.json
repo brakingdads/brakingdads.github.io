@@ -3,128 +3,128 @@
     "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-january-2022",
     "times": {
       "1": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "2": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to Public",
+        "audience": "Public access"
       },
       "3": {
-        "openStatus": "Open to   Public",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military driver training (Night drive)"
       },
       "4": {
-        "openStatus": "Closed   to Public from 8am",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "5": {
-        "openStatus": "Closed   to Public until 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "6": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "7": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "8": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "9": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "10": {
-        "openStatus": "Open to   Public",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "11": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "12": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to Public from 0800",
+        "audience": "Military driver training (Night drive)"
       },
       "13": {
-        "openStatus": "Closed   to Public from 8am",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military driver training"
       },
       "14": {
-        "openStatus": "Closed   to Public until 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "15": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "16": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "17": {
-        "openStatus": "Open to   Public",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "18": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military driver training (Night drive)"
       },
       "19": {
-        "openStatus": "Closed   to Public from 8am",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to Public",
+        "audience": "Military driver training (Night drive)"
       },
       "20": {
-        "openStatus": "Closed   to Public",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to Public",
+        "audience": "Military driver training (Night drive)"
       },
       "21": {
-        "openStatus": "Closed   to Public",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military driver training"
       },
       "22": {
-        "openStatus": "Closed   to Public until 6pm",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "23": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "24": {
-        "openStatus": "Open to   Public",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to Public 0800 to 1800 hrs",
+        "audience": "Military driver training"
       },
       "25": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "26": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military driver training (Night drive)"
       },
       "27": {
-        "openStatus": "Closed   to Public from 8am",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military driver training"
       },
       "28": {
-        "openStatus": "Closed to   Public until 6pm",
-        "audience": "Military   Driver Training"
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military driver training"
       },
       "29": {
-        "openStatus": "Closed   to Public 8am to 6pm",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "30": {
-        "openStatus": "Open to   Public",
-        "audience": "Public   Access"
+        "openStatus": "Open to public",
+        "audience": "Public access"
       },
       "31": {
-        "openStatus": "Open to   Public",
-        "audience": "Military   Driver Training (Night Drive)"
+        "openStatus": "Closed to Public from 0800",
+        "audience": "Military driver training (Night drive)"
       }
     }
   }
