@@ -1,41 +1,4 @@
 {
-  "january": {
-    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-january-2022",
-    "times": {
-      "24": {
-        "openStatus": "Open to Public",
-        "audience": "Public access"
-      },
-      "25": {
-        "openStatus": "Closed to public 8am to 5pm",
-        "audience": "Military training"
-      },
-      "26": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      },
-      "27": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      },
-      "28": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      },
-      "29": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      },
-      "30": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      },
-      "31": {
-        "openStatus": "Open to public",
-        "audience": "Public access"
-      }
-    }
-  },
   "february": {
     "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-february-2022",
     "times": {
