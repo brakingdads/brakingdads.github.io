@@ -115,5 +115,134 @@
         "audience": "Military   driver training"
       }
     }
+  },
+  "march": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-march-2022",
+    "times": {
+      "1": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "2": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "3": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "4": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "5": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "6": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "7": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "8": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "9": {
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military   training  (day and night)"
+      },
+      "10": {
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military training"
+      },
+      "11": {
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military   training  (day and night)"
+      },
+      "12": {
+        "openStatus": "Closed to Public",
+        "audience": "Military   training  (day and night)"
+      },
+      "13": {
+        "openStatus": "Closed to Public",
+        "audience": "Military   training  (day and night)"
+      },
+      "14": {
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military training"
+      },
+      "15": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "16": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "17": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "18": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "19": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "20": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "21": {
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military   training  (day and night)"
+      },
+      "22": {
+        "openStatus": "Closed to public",
+        "audience": "Military   training  (day and night)"
+      },
+      "23": {
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military training"
+      },
+      "24": {
+        "openStatus": "Closed to public from 8am",
+        "audience": "Military   training  (day and night)"
+      },
+      "25": {
+        "openStatus": "Closed to public until 6pm",
+        "audience": "Military training"
+      },
+      "26": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "27": {
+        "openStatus": "Open to public",
+        "audience": "Public access"
+      },
+      "28": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "29": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "30": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      },
+      "31": {
+        "openStatus": "Closed to public 8am to 6pm",
+        "audience": "Military training"
+      }
+    }
   }
 }
