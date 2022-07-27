@@ -127,5 +127,134 @@
         "audience": "Public access"
       }
     }
+  },
+  "august": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-august-2022",
+    "times": {
+      "1": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "2": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "3": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "4": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "5": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "6": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "7": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "8": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "9": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "10": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "11": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "12": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "13": {
+        "openStatus": "Closed   to public from 8am (Day & Night training)",
+        "audience": ""
+      },
+      "14": {
+        "openStatus": "Closed   to public until 2pm",
+        "audience": ""
+      },
+      "15": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "16": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "17": {
+        "openStatus": "Closed   to public from 8am (Day & Night training)",
+        "audience": ""
+      },
+      "18": {
+        "openStatus": "Closed   to public until 6pm",
+        "audience": ""
+      },
+      "19": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "20": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "21": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "22": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "23": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "24": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "25": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "26": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "27": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "28": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "29": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "30": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      },
+      "31": {
+        "openStatus": "Closed   to public 8am to 6pm",
+        "audience": ""
+      }
+    }
   }
 }
