@@ -1,21 +1,21 @@
 {
-  "august": {
-    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-august-2022",
+  "september": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-september-2022",
     "times": {
       "1": {
-        "openStatus": "Open   to public",
+        "openStatus": "Closed   to public 8am",
         "audience": ""
       },
       "2": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Closed   to public until 6pm  (Day & Night training)",
         "audience": ""
       },
       "3": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "4": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "5": {
@@ -23,11 +23,11 @@
         "audience": ""
       },
       "6": {
-        "openStatus": "Open   to public",
+        "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       },
       "7": {
-        "openStatus": "Open   to public",
+        "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       },
       "8": {
@@ -39,11 +39,11 @@
         "audience": ""
       },
       "10": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "11": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "12": {
@@ -51,11 +51,11 @@
         "audience": ""
       },
       "13": {
-        "openStatus": "Closed   to public from 8am (Day & Night training)",
+        "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       },
       "14": {
-        "openStatus": "Closed   to public until 2pm",
+        "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       },
       "15": {
@@ -67,11 +67,11 @@
         "audience": ""
       },
       "17": {
-        "openStatus": "Closed   to public from 8am (Day & Night training)",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "18": {
-        "openStatus": "Closed   to public until 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "19": {
@@ -79,27 +79,27 @@
         "audience": ""
       },
       "20": {
-        "openStatus": "Open   to public",
+        "openStatus": "Closed   to public from 8am  (Day & Night training)",
         "audience": ""
       },
       "21": {
-        "openStatus": "Open   to public",
+        "openStatus": "Closed   to public until 6pm",
         "audience": ""
       },
       "22": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Closed   to public from 8am  (Day & Night training)",
         "audience": ""
       },
       "23": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Closed   to public until 6pm",
         "audience": ""
       },
       "24": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "25": {
-        "openStatus": "Closed   to public 8am to 6pm",
+        "openStatus": "Open   to public",
         "audience": ""
       },
       "26": {
@@ -107,22 +107,18 @@
         "audience": ""
       },
       "27": {
-        "openStatus": "Open   to public",
-        "audience": ""
-      },
-      "28": {
-        "openStatus": "Open   to public",
-        "audience": ""
-      },
-      "29": {
-        "openStatus": "Open   to public",
-        "audience": ""
-      },
-      "30": {
         "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       },
-      "31": {
+      "28": {
+        "openStatus": "Closed   to public from 8am  (Day & Night training)",
+        "audience": ""
+      },
+      "29": {
+        "openStatus": "Closed   to public until 6pm",
+        "audience": ""
+      },
+      "30": {
         "openStatus": "Closed   to public 8am to 6pm",
         "audience": ""
       }
