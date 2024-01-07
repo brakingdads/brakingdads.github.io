@@ -1,1 +1,131 @@
-{}
+{
+  "january": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-january-2024",
+    "times": {
+      "1": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "2": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "3": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "4": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "5": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "6": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "7": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "8": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "9": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "10": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "11": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "12": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "13": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "14": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "15": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "16": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "17": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "18": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "19": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "20": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "21": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "22": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "23": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "24": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "25": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "26": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "27": {
+        "openStatus": "\nClosed   to public   (Day & Night training)",
+        "audience": ""
+      },
+      "28": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "29": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "30": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      },
+      "31": {
+        "openStatus": "Closed   to public until 4.30pm",
+        "audience": ""
+      }
+    }
+  }
+}
