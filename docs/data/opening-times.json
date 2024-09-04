@@ -1,1 +1,127 @@
-{}
+{
+  "september": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-september-2024",
+    "times": {
+      "1": {
+        "openStatus": "Open  to public",
+        "audience": ""
+      },
+      "2": {
+        "openStatus": "\nClosed   to public   (from 8am, Day & night training)",
+        "audience": ""
+      },
+      "3": {
+        "openStatus": "\nClosed   to public  (Day & night training)",
+        "audience": ""
+      },
+      "4": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "5": {
+        "openStatus": "\nClosed   to public  (Day & night training)",
+        "audience": ""
+      },
+      "6": {
+        "openStatus": "\nClosed   to public (until 4.30pm)",
+        "audience": ""
+      },
+      "7": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "8": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "9": {
+        "openStatus": "\nClosed   to public   (from 8am, Day & night training)",
+        "audience": ""
+      },
+      "10": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "11": {
+        "openStatus": "\nClosed   to public  (Day & night training)",
+        "audience": ""
+      },
+      "12": {
+        "openStatus": "\nClosed   to public  (Day & night training)",
+        "audience": ""
+      },
+      "13": {
+        "openStatus": "\nClosed   to public   (until 4.30pm)",
+        "audience": ""
+      },
+      "14": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "15": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "16": {
+        "openStatus": "\nClosed   to public   (from 8am, Day & night training)",
+        "audience": ""
+      },
+      "17": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "18": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "19": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "20": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "21": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "22": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "23": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "24": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "25": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "26": {
+        "openStatus": "\nClosed   to public   (Day & night training)",
+        "audience": ""
+      },
+      "27": {
+        "openStatus": "\nClosed   to public (until 4.30pm)",
+        "audience": ""
+      },
+      "28": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "29": {
+        "openStatus": "Open   to public",
+        "audience": ""
+      },
+      "30": {
+        "openStatus": "\nClosed   to public   (8am to 4.30pm)",
+        "audience": ""
+      }
+    }
+  }
+}
