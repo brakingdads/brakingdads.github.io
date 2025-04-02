@@ -1,117 +1,125 @@
 {
-  "february": {
-    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-february-2025",
+  "april": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-april-2025",
     "times": {
       "1": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public (day and night)",
         "audience": ""
       },
       "2": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public (day and night)",
         "audience": ""
       },
       "3": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "\nClosed to public   (day and night training)",
         "audience": ""
       },
       "4": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "\nClosed to public   (Until 4.30pm)",
         "audience": ""
       },
       "5": {
-        "openStatus": "\nClosed   to public   (until 4pm)",
+        "openStatus": "\nClosed to public   (from 8am, day and night training)",
         "audience": ""
       },
       "6": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (Until 11.59am)",
         "audience": ""
       },
       "7": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (from 8am, day and night training)",
         "audience": ""
       },
       "8": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public (day and night training)",
         "audience": ""
       },
       "9": {
-        "openStatus": "Open   to public",
+        "openStatus": "\nClosed to public  (day and night training)",
         "audience": ""
       },
       "10": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (day and night training)",
         "audience": ""
       },
       "11": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (Until 4.30pm)",
         "audience": ""
       },
       "12": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "13": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "14": {
-        "openStatus": "\nClosed   to public   (until 4pm)",
+        "openStatus": "\nClosed to public   (from 8am, day and night training)",
         "audience": ""
       },
       "15": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public  (day and night)",
         "audience": ""
       },
       "16": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public (day and night)",
         "audience": ""
       },
       "17": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "\nClosed to public   (day and night training)",
         "audience": ""
       },
       "18": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "\nClosed to public   (until 4.30pm)",
         "audience": ""
       },
       "19": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "20": {
-        "openStatus": "\nClosed   to public   (from 8am, day & night training)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "21": {
-        "openStatus": "\nClosed   to public   (until 4pm)",
+        "openStatus": "\nClosed to public   (from 8am, day and night training)",
         "audience": ""
       },
       "22": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public  (day and night training)",
         "audience": ""
       },
       "23": {
-        "openStatus": "Open  to public",
+        "openStatus": "\nClosed to public  (day and night training)",
         "audience": ""
       },
       "24": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (day & night training)",
         "audience": ""
       },
       "25": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (until 4.30pm)",
         "audience": ""
       },
       "26": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "27": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "28": {
-        "openStatus": "\nClosed   to public  (8am to 4pm)",
+        "openStatus": "\nClosed to public  (from 8am, day & night training)",
+        "audience": ""
+      },
+      "29": {
+        "openStatus": "\nClosed to public   (from 8am, day & night training)",
+        "audience": ""
+      },
+      "30": {
+        "openStatus": "\nClosed to public  (day & night training)",
         "audience": ""
       }
     }
