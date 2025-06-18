@@ -31,19 +31,19 @@
         "audience": ""
       },
       "8": {
-        "openStatus": "Open to public",
+        "openStatus": "\nClosed to public (from 4.30pm)",
         "audience": ""
       },
       "9": {
-        "openStatus": "\nClosed to public (8am to  4.30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "10": {
-        "openStatus": "\nClosed to public (8am to  4.30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "11": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "12": {
@@ -59,7 +59,7 @@
         "audience": ""
       },
       "15": {
-        "openStatus": "\nClosed to public (until 8am)",
+        "openStatus": "\nClosed to public (until 8.30am)",
         "audience": ""
       },
       "16": {
