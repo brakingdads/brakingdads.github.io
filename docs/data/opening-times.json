@@ -1,17 +1,17 @@
 {
-  "september": {
-    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-september-2025",
+  "october": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-october-2025",
     "times": {
       "1": {
-        "openStatus": "\nClosed to public (from 8am to 4.30pm)",
+        "openStatus": "\nClosed to public (from 8am)",
         "audience": ""
       },
       "2": {
-        "openStatus": "\nClosed to public (from 8am to 4.30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "3": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "4": {
@@ -19,19 +19,19 @@
         "audience": ""
       },
       "5": {
-        "openStatus": "\nClosed to public  (until 4:30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "6": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "7": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "8": {
-        "openStatus": "\nClosed to public \t(from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "9": {
@@ -47,19 +47,19 @@
         "audience": ""
       },
       "12": {
-        "openStatus": "\nClosed to public  (until 4.30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "13": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "14": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "15": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "16": {
@@ -67,59 +67,63 @@
         "audience": ""
       },
       "17": {
-        "openStatus": "Closed to public",
+        "openStatus": "\nClosed to public (until 4.30pm",
         "audience": ""
       },
       "18": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "19": {
-        "openStatus": "\nClosed to public(until 4:30pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "20": {
-        "openStatus": "Open to public",
+        "openStatus": "\nClosed to public (from 8am to 4.30pm)",
         "audience": ""
       },
       "21": {
-        "openStatus": "Open to public",
+        "openStatus": "\nClosed to public (from 8am to 4.30pm)",
         "audience": ""
       },
       "22": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "\nClosed to public (from 8am to 4.30pm)",
         "audience": ""
       },
       "23": {
-        "openStatus": "Closed to public",
+        "openStatus": "\nClosed to public (from 8am)",
         "audience": ""
       },
       "24": {
-        "openStatus": "Closed to public",
+        "openStatus": "\nClosed to public (until 4.30pm)",
         "audience": ""
       },
       "25": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "26": {
-        "openStatus": "\nClosed to public  (until 4.30pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "27": {
-        "openStatus": "Open to public",
+        "openStatus": "\nClosed to public (from 8am)",
         "audience": ""
       },
       "28": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "29": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "30": {
         "openStatus": "Closed to public",
+        "audience": ""
+      },
+      "31": {
+        "openStatus": "\nClosed to public (until 4.30pm)",
         "audience": ""
       }
     }
