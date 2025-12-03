@@ -1,13 +1,13 @@
 {
-  "november": {
-    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-november-2025",
+  "december": {
+    "source": "https://www.gov.uk/government/publications/south-east-training-estate-firing-times/aldershot-training-area-closure-times-december-2025",
     "times": {
       "1": {
-        "openStatus": "Open to public",
+        "openStatus": "\nClosed to public (from 8am)",
         "audience": ""
       },
       "2": {
-        "openStatus": "\nOpen to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "3": {
@@ -27,19 +27,19 @@
         "audience": ""
       },
       "7": {
-        "openStatus": "\nClosed to public (until 4:30pm)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "8": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "9": {
-        "openStatus": "Open to public",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "10": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Closed to public",
         "audience": ""
       },
       "11": {
@@ -47,15 +47,15 @@
         "audience": ""
       },
       "12": {
-        "openStatus": "Closed to public",
+        "openStatus": "\nClosed to public (until 4:30pm)",
         "audience": ""
       },
       "13": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "14": {
-        "openStatus": "\nClosed to public (until 4:30pm)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "15": {
@@ -67,23 +67,23 @@
         "audience": ""
       },
       "17": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "18": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "19": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "20": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "21": {
-        "openStatus": "\nClosed to public  (until 4:30am)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "22": {
@@ -95,31 +95,35 @@
         "audience": ""
       },
       "24": {
-        "openStatus": "\nClosed to public (from 8am)",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "25": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "26": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "27": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "28": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "29": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
         "audience": ""
       },
       "30": {
-        "openStatus": "Closed to public",
+        "openStatus": "Open to public",
+        "audience": ""
+      },
+      "31": {
+        "openStatus": "Open to public",
         "audience": ""
       }
     }
